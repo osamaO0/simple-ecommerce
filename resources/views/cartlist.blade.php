@@ -2,7 +2,7 @@
 @section("content")
 <div class="trending" style="margin: 50px">
     <div class="col-sm-10">
-            <h5>Result for search</h5><br><br>
+            <h5>Your Cart Items</h5><br><br>
             @foreach ($products as $item)
             <div style="margin-top: 50px ; border-bottom:1px solid #ccc; margin-bottom:30px" class="row">
                 <div class="col-sm-3">
